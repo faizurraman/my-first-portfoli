@@ -1,0 +1,31 @@
+.container{
+    background-color: #CCCCFF;
+    width: 90%;
+
+
+
+}
+.box1{
+    text-align: center;
+    color: #FF7F50;
+}
+.box2{
+    text-align: center;
+}
+.box3{
+    text-align: center;
+    color: #DE3163;
+    word-spacing: 5px;
+}
+.box4 {
+     text-align: center;
+    color: green;
+    background-color: whitesmoke;
+    width: 30%;
+    margin: auto;
+
+}
+.box6 {
+    
+    
+}
